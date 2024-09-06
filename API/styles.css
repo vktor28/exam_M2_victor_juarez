@@ -1,0 +1,25 @@
+div.card {margin:auto;}
+body {background-color: grey;
+background-image: url(https://img2.rtve.es/i/?w=1600&i=1683281780846.jpg);
+background-size: cover;
+background-position: center;}
+div#img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-size: cover;
+    margin: 10px auto;
+}
+
+div.row {margin-top:20px} 
+
+
+
+div#img.chiquito {
+background-image: url(https://content20.lecturas.com/medio/2016/10/03/chiquito-de-la-calzada3_1360x2000_00083a4d.jpg);
+}
+
+
+div#img.chuck {
+    background-image: url(https://www.tutkit.com/storage/media/blog/05may/2024/376-die-150-besten-chuck-norris-witze-und-memes-feat.jpg);
+    }
